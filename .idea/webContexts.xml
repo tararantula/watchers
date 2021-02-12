@@ -5,6 +5,7 @@
       <map>
         <entry key="file://$PROJECT_DIR$/watchers/src/main/resources/templates/choiceFilm.html" value="file://$PROJECT_DIR$/watchers/src/main/resources/templates" />
         <entry key="file://$PROJECT_DIR$/watchers/src/main/resources/templates/index.html" value="file://$PROJECT_DIR$/watchers/src/main/resources/templates" />
+        <entry key="file://$PROJECT_DIR$/watchers/src/main/resources/templates/main.html" value="file://$PROJECT_DIR$/watchers/src/main/resources/templates" />
         <entry key="file://$PROJECT_DIR$/watchers/src/main/resources/templates/random.html" value="file://$PROJECT_DIR$/watchers/src/main/resources/templates" />
       </map>
     </option>
